@@ -1,4 +1,5 @@
 //Link:  https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1/?track=amazon-arrays&batchId=192
+//solve it using 2 arrays
 int maxIndexDiff(int arr[], int n)
 {
     int leftmin[n]; //take and store smaller element from left to right
