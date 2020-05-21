@@ -1,3 +1,4 @@
+//Link : https://practice.geeksforgeeks.org/problems/lru-cache/1
 class LRUCache {
 public:
     list<pair<int,int> > cache;
