@@ -5,3 +5,6 @@
 4. Maximum Index
 5. Max Circular Subarray Sum
 6. Distinct occurrences
+7. Coin Change
+8. Maximize The Cut Segments
+9. Wildcard Pattern Matching
