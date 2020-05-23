@@ -8,3 +8,5 @@
 7. Coin Change
 8. Maximize The Cut Segments
 9. Wildcard Pattern Matching
+10. Count ways to reach the n'th stair
+11. Count ways to N'th Stair(Order does not matter)
