@@ -22,6 +22,8 @@ int maxHeight(int height[],int width[],int length[],int n)
     {
         //*****important******
         // we try to store data i.e. br>ln
+        // This is because, when you store directly while sorting it might
+        // miss a few cases. Thus to cover all cases we store so that br>ln
         arr[i*3].ln=min(width[i],height[i]);
         arr[i*3].br=max(width[i],height[i]);
         arr[i*3].ht=length[i];
