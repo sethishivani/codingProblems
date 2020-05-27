@@ -15,3 +15,4 @@
 14. Box Stacking
 15. Egg Dropping Puzzle
 16. Minimum number of jumps
+17. Optimal Strategy For A Game
