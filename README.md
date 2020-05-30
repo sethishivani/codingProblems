@@ -17,3 +17,4 @@
 16. Minimum number of jumps
 17. Optimal Strategy For A Game
 18. Longest Increasing Subsequence
+19. Longest Common Subsequence
