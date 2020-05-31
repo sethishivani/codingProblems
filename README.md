@@ -22,3 +22,4 @@
 21. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 22. Pseudo-Palindromic Paths in a Binary Tree
 23. Count subsequences of type a^i, b^j, c^k
+24. Partition Equal Subset Sum
