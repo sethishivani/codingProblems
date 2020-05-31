@@ -20,3 +20,4 @@
 19. Longest Common Subsequence
 20. Reorder Routes to Make All Paths Lead to the City Zero
 21. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+22. Pseudo-Palindromic Paths in a Binary Tree
