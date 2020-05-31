@@ -4,7 +4,7 @@
 // for 1st appearance of b it can be starting of a new b sequence with existing a's sequence or it may or may not be a part of earlier b's
 // for 1st appearance of c it can be starting of a new c sequence with existing b's sequence or it may or may not be a part of earlier c's
 int fun(string &str) {
-    long long int n=str.size(),sol=0,ac=0,bc=0,cc=0;
+    long long int n=str.size(),ac=0,bc=0,cc=0;
     for(int i=0;i<n;i++)
     {
         if(str[i]=='a')
