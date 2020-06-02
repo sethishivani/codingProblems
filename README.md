@@ -23,3 +23,5 @@
 22. Pseudo-Palindromic Paths in a Binary Tree
 23. Count subsequences of type a^i, b^j, c^k
 24. Partition Equal Subset Sum
+25. Maximum difference between node and its ancestor
+26. Rotten Oranges
