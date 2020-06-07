@@ -31,3 +31,8 @@
 30. Nodes at given distance in binary tree
 31. Random Pick with Weight
 32. Word Break
+33. The k Strongest Values in an Array
+34. Queue Reconstruction by Height
+35. Design Browser History
+36. Coin Change 2
+37. Minimum Number of Arrows to Burst Balloons
