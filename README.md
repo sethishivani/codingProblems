@@ -40,3 +40,4 @@
 39. Wiggle Subsequence
 40. Remove K Digits
 41. Non-overlapping Intervals
+42. Min distance between two given nodes of a Binary Tree
